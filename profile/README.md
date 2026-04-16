@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome!
+
+Welcome to our github organization
+Feel free to check out our main project and related sub projects
 
 <!--
 
